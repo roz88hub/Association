@@ -60,7 +60,7 @@ public class Seat {
 				+ "]";
 	}
 
-// adjustHeight(int level), pullForward(), pushBack()
+	// adjustHeight(int level), pullForward(), pushBack()
 
 public void  adjustHeight(int level){
 }

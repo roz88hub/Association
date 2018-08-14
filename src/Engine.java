@@ -4,7 +4,7 @@ public class Engine {
 	private double cyclinderCapacity;
 	private String engineType;
 	private	int numberofCylinders;
-	private double horsePower;
+	private double horsePower; 
 
 	public void start(){ 
 		System.out.println("Starting Engine");

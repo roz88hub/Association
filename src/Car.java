@@ -24,5 +24,4 @@ public class Car {
 		Car c = new Car(new Engine(1.8, "Petrol", 5, 250), new Wheel(34.5,"Tata", 24), new Seat("Leather","Cotton","HOLYCOW", "Winter" ,true, false));
 		c.engine.start();
 	}
-	
 }

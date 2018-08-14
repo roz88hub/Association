@@ -15,7 +15,7 @@ public class Wheel {
 	public Wheel(double pressure, String brand, int size) {
 		this.pressure = pressure;
 		this.brand = brand;
-		this.size = size;
+		this.size = size; 
 	}
 	public double getPressure() {
 		return pressure;
